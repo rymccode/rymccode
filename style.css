@@ -4,5 +4,10 @@ body {
 }
 
 h2 {
-    color: purple;
+    color: rgb(128, 0, 0);
+}
+img{
+    border-width: 40px;
+    border-style: double;
+    border-color:rgb(160, 47, 57)
 }
