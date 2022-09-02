@@ -11,3 +11,29 @@ img{
     border-style: double;
     border-color:rgb(160, 47, 57)
 }
+nav {
+    background: rgb(239, 80, 41);
+   margin: 0 auto;
+    display: flex;
+    padding: 10px;
+}
+h1 {
+    display: flexbox;
+    align-items: center;
+    color: white;
+    flex: 1;
+    margin: 0;
+}
+#nav-ul {
+    list-style-image: none;
+}
+.nav-li {
+    display: inline-table;
+    padding: 0 10px;
+}
+a {
+    text-decoration: firebrick;
+    color: firebrick;
+}
+
+
